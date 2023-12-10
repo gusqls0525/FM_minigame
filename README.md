@@ -20,4 +20,4 @@
 
 그럼 저는 이만!
 
-![5C30CC44-CED4-4331-ADCC-65EFE6D9329D_2_0_a](https://github.com/gusqls0525/FM_minigame/assets/71205928/9745b658-83ef-40e0-aa10-fbb07ab5cf31)
+<img width="60%" src="https://github.com/gusqls0525/FM_minigame/assets/71205928/722b5a91-a609-473d-8d21-bb135c1fab99"/>
