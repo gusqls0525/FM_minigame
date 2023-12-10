@@ -20,8 +20,6 @@
 
 그럼 저는 이만!
 
-<img width="60%" src="https://github.com/gusqls0525/FM_minigame/assets/71205928/94fde0eb-4165-4f17-ad37-52e5d09de9a2"/>
-
-
+<img width="60%" src="https://github.com/gusqls0525/FM_minigame/assets/71205928/ea590020-92d6-47c3-9e4f-84a87ff2dfa6"/>
 
 
